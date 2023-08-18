@@ -8,10 +8,10 @@
 
 ## Cac Game da hoan thanh
 
-> ** Ban Bong **
-> **Mario**
-> **Block**
+- > **Ban Bong** : https://github.com/mindongun123/MJGame_APK/releases
+- > **Mario** : https://github.com/mindongun123/MJGame_APK/releases
+- > **Block** : https://github.com/mindongun123/MJGame_APK/releases
 
-## Cac Game Demo/ Choi duoc 
+## Cac Game Demo/ Choi thu  
 
-> **Connect**
+- > **Connect** : https://github.com/mindongun123/MJGame_APK/releases
