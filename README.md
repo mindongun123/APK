@@ -8,10 +8,10 @@
 
 ## Cac Game da hoan thanh
 
-**Ban Bong**
-**Mario**
-**Block**
+> **Ban Bong**
+> **Mario**
+> **Block**
 
 ## Cac Game Demo/ Choi duoc 
 
-**Connect**
+> **Connect**
