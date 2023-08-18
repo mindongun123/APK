@@ -11,6 +11,7 @@
 - > **Ban Bong** : https://github.com/mindongun123/MJGame_APK/releases
 - > **Mario** : https://github.com/mindongun123/MJGame_APK/releases
 - > **Block** : https://github.com/mindongun123/MJGame_APK/releases
+- > **Seri Game Fun** : https://github.com/mindongun123/MJGame_APK/releases
 
 ## Cac Game Demo/ Choi thu  
 
