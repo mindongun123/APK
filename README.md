@@ -13,8 +13,7 @@
 - > **Block** : https://github.com/mindongun123/MJGame_APK/releases
 - > **Seri Game Fun** : https://github.com/mindongun123/MJGame_APK/releases
 - > **PuzzleMatchKit** : https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit
-- > **Runner3D** : https://github.com/mindongun123/MJGame_APK/releases/tag/Runner3D
-
+- > **Runner3D** : https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D
 ## Cac Game Demo/ Choi thu  
 
 - > **Connect** : https://github.com/mindongun123/MJGame_APK/releases
