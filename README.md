@@ -14,6 +14,8 @@
 - > **Seri Game Fun** : https://github.com/mindongun123/MJGame_APK/releases
 - > **PuzzleMatchKit** : https://github.com/mindongun123/MJGame_APK/releases/tag/MatchKit
 - > **Runner3D** : https://github.com/mindongun123/MJGame_APK/releases/tag/runner3D
+- > **Emoji** : https://github.com/mindongun123/MJGame_APK/releases/tag/%23mjgameEmoji
+  
 ## Cac Game Demo/ Choi thu  
 
 - > **Connect** : https://github.com/mindongun123/MJGame_APK/releases
