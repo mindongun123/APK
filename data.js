@@ -1,6 +1,5 @@
 
-{
-    "questions": [
+ [
         {
             "question": "25+17=?",
             "answer": 42,
@@ -26,4 +25,4 @@
             "difficulty": 1
         }
     ]
-}
+ 
