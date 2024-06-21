@@ -58,5 +58,95 @@
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Hình nào sau đây là hình tam giác?",
+        "_options": [
+            "A. Hình có ba cạnh",
+            "B. Hình có bốn cạnh",
+            "C. Hình có năm cạnh",
+            "D. Hình có sáu cạnh"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Tổng các góc trong một hình tam giác là bao nhiêu độ?",
+        "_options": [
+            "A. 180 độ",
+            "B. 90 độ",
+            "C. 360 độ",
+            "D. 270 độ"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 2,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Chu vi của một hình vuông có cạnh dài 5 cm là bao nhiêu?",
+        "_options": [
+            "A. 20 cm",
+            "B. 25 cm",
+            "C. 15 cm",
+            "D. 10 cm"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 2,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "1 mét bằng bao nhiêu xentimét?",
+        "_options": [
+            "A. 10 xentimét",
+            "B. 100 xentimét",
+            "C. 1000 xentimét",
+            "D. 10000 xentimét"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "5 kilôgam bằng bao nhiêu gam?",
+        "_options": [
+            "A. 50 gam",
+            "B. 500 gam",
+            "C. 5000 gam",
+            "D. 50000 gam"
+        ],
+        "_answer": "C",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "Một giờ có bao nhiêu phút?",
+        "_options": [
+            "A. 60 phút",
+            "B. 30 phút",
+            "C. 120 phút",
+            "D. 90 phút"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
     }
 ]
