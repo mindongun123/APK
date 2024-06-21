@@ -253,5 +253,21 @@
         "_explanation": "Trong bài thơ 'Mẹ và quả', tác giả nói về tình mẹ con.",
         "_difficulty": 2,
         "_description": ""
+    },
+    
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Van hoc",
+        "_question": "Trong bài thơ 'Mẹ và quả', tác giả nói về điều gì?",
+        "_options": [
+            "A. Tình mẹ con",
+            "B. Quả táo",
+            "C. Con đường làng",
+            "D. Ngôi nhà"
+        ],
+        "_answer": "A",
+        "_explanation": "Trong bài thơ 'Mẹ và quả', tác giả nói về tình mẹ con.",
+        "_difficulty": 2,
+        "_description": ""
     }
 ]
