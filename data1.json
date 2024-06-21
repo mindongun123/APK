@@ -1,27 +1,62 @@
- [
-        {
-            "question": "25+17=?",
-            "answer": 42,
-            "explanation": "Để tính tổng của 25 và 17, bạn cộng hai số lại với nhau: 25 + 17 = 42.",
-            "difficulty": 1
-        },
-        {
-            "question": "13+48=?",
-            "answer": 35,
-            "explanation": "Để trừ 13 từ 48, bạn trừ 13 từ 48: 48 - 13 = 35.",
-            "difficulty": 1
-        },
-        {
-            "question": "8x6=?",
-            "answer": 48,
-            "explanation": "Để nhân 8 với 6, bạn nhân hai số lại với nhau: 8 * 6 = 48.",
-            "difficulty": 1
-        },
-        {
-            "question": "36:4=?",
-            "answer": 9,
-            "explanation": "Để chia 36 cho 4, bạn chia 36 cho 4: 36 / 4 = 9.",
-            "difficulty": 1
-        }
-    ]
- 
+[
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "Các số: 89, 98, 57, 16 được viết theo thứ tự từ bé đến lớn là",
+        "_options": [
+            "A. 89, 98, 57, 16",
+            "B. 98, 89, 57, 16",
+            "C. 16, 57, 89, 98",
+            "D. 16, 57, 98, 89"
+        ],
+        "_answer": "C",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "Số bé nhất có hai chữ số là:",
+        "_options": [
+            "A. 9",
+            "B. 10",
+            "C. 99",
+            "D. 100"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "85kg + 15kg = ……",
+        "_options": [
+            "A. 100kg",
+            "B. 100",
+            "C. 90kg",
+            "D. 80kg"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "42 + 18 = .... - 36 = ....\n\nSố thích hợp điền vào ô trống lần lượt là:",
+        "_options": [
+            "A. 50 và 14",
+            "B. 60 và 24",
+            "C. 50 và 24",
+            "D. 60 và 34"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    }
+]
