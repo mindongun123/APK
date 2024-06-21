@@ -1,0 +1,257 @@
+[
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "Các số: 89, 98, 57, 16 được viết theo thứ tự từ bé đến lớn là",
+        "_options": [
+            "A. 89, 98, 57, 16",
+            "B. 98, 89, 57, 16",
+            "C. 16, 57, 89, 98",
+            "D. 16, 57, 98, 89"
+        ],
+        "_answer": "C",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "Số bé nhất có hai chữ số là:",
+        "_options": [
+            "A. 9",
+            "B. 10",
+            "C. 99",
+            "D. 100"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "85kg + 15kg = ……",
+        "_options": [
+            "A. 100kg",
+            "B. 100",
+            "C. 90kg",
+            "D. 80kg"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "So hoc",
+        "_question": "42 + 18 = .... - 36 = ....\n\nSố thích hợp điền vào ô trống lần lượt là:",
+        "_options": [
+            "A. 50 và 14",
+            "B. 60 và 24",
+            "C. 50 và 24",
+            "D. 60 và 34"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Hình nào sau đây là hình tam giác?",
+        "_options": [
+            "A. Hình có ba cạnh",
+            "B. Hình có bốn cạnh",
+            "C. Hình có năm cạnh",
+            "D. Hình có sáu cạnh"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Tổng các góc trong một hình tam giác là bao nhiêu độ?",
+        "_options": [
+            "A. 180 độ",
+            "B. 90 độ",
+            "C. 360 độ",
+            "D. 270 độ"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 2,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Hinh hoc",
+        "_question": "Chu vi của một hình vuông có cạnh dài 5 cm là bao nhiêu?",
+        "_options": [
+            "A. 20 cm",
+            "B. 25 cm",
+            "C. 15 cm",
+            "D. 10 cm"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 2,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "1 mét bằng bao nhiêu xentimét?",
+        "_options": [
+            "A. 10 xentimét",
+            "B. 100 xentimét",
+            "C. 1000 xentimét",
+            "D. 10000 xentimét"
+        ],
+        "_answer": "B",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "5 kilôgam bằng bao nhiêu gam?",
+        "_options": [
+            "A. 50 gam",
+            "B. 500 gam",
+            "C. 5000 gam",
+            "D. 50000 gam"
+        ],
+        "_answer": "C",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Toan",
+        "_topic": "Do luong",
+        "_question": "Một giờ có bao nhiêu phút?",
+        "_options": [
+            "A. 60 phút",
+            "B. 30 phút",
+            "C. 120 phút",
+            "D. 90 phút"
+        ],
+        "_answer": "A",
+        "_explanation": "",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Tu vung",
+        "_question": "Chọn từ đúng để điền vào chỗ trống: \"Con mèo đang … trên cây.\"",
+        "_options": [
+            "A. ngủ",
+            "B. bay",
+            "C. bơi",
+            "D. nhảy"
+        ],
+        "_answer": "A",
+        "_explanation": "Từ đúng để điền vào chỗ trống là 'ngủ'. Con mèo thường ngủ trên cây.",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Ngu phap",
+        "_question": "Chọn từ ngữ thích hợp để hoàn thành câu: \"Bé Lan rất … khi được mẹ mua cho bộ đồ chơi mới.\"",
+        "_options": [
+            "A. buồn",
+            "B. vui",
+            "C. giận",
+            "D. sợ"
+        ],
+        "_answer": "B",
+        "_explanation": "Từ ngữ thích hợp để hoàn thành câu là 'vui'. Bé Lan rất vui khi được mẹ mua cho bộ đồ chơi mới.",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Chinh ta",
+        "_question": "Từ nào sau đây được viết đúng chính tả?",
+        "_options": [
+            "A. lòai chim",
+            "B. loài chim",
+            "C. lòai chim",
+            "D. loài chim"
+        ],
+        "_answer": "B",
+        "_explanation": "Từ viết đúng chính tả là 'loài chim'.",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Chinh ta",
+        "_question": "Từ nào sau đây có chứa âm đầu là 'ch'?",
+        "_options": [
+            "A. canh",
+            "B. chân",
+            "C. bánh",
+            "D. gạch"
+        ],
+        "_answer": "B",
+        "_explanation": "Từ 'chân' có chứa âm đầu là 'ch'.",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Ke chuyen",
+        "_question": "Hoàn thành câu tục ngữ: \"Có công mài sắt, …\"",
+        "_options": [
+            "A. có ngày nên kim",
+            "B. có ngày thành kim",
+            "C. có ngày nên vàng",
+            "D. có ngày thành vàng"
+        ],
+        "_answer": "A",
+        "_explanation": "Câu tục ngữ đầy đủ là 'Có công mài sắt, có ngày nên kim'.",
+        "_difficulty": 1,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Van hoc",
+        "_question": "Nhân vật nào trong truyện cổ tích Việt Nam có khả năng biến hóa?",
+        "_options": [
+            "A. Thánh Gióng",
+            "B. Tấm",
+            "C. Cô bé quàng khăn đỏ",
+            "D. Trạng Quỳnh"
+        ],
+        "_answer": "B",
+        "_explanation": "Nhân vật Tấm trong truyện cổ tích Việt Nam có khả năng biến hóa.",
+        "_difficulty": 2,
+        "_description": ""
+    },
+    {
+        "_genre": "Tieng Viet",
+        "_topic": "Van hoc",
+        "_question": "Trong bài thơ 'Mẹ và quả', tác giả nói về điều gì?",
+        "_options": [
+            "A. Tình mẹ con",
+            "B. Quả táo",
+            "C. Con đường làng",
+            "D. Ngôi nhà"
+        ],
+        "_answer": "A",
+        "_explanation": "Trong bài thơ 'Mẹ và quả', tác giả nói về tình mẹ con.",
+        "_difficulty": 2,
+        "_description": ""
+    }
+]
