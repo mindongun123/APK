@@ -9,7 +9,7 @@
             "C. 16, 57, 89, 98",
             "D. 16, 57, 98, 89"
         ],
-        "_answer": "C",
+        "_answer": 2,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -24,7 +24,7 @@
             "C. 99",
             "D. 100"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -39,7 +39,7 @@
             "C. 90kg",
             "D. 80kg"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -54,7 +54,7 @@
             "C. 50 và 24",
             "D. 60 và 34"
         ],
-        "_answer": "B",
+        "_answer": 2,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -69,7 +69,7 @@
             "C. Hình có năm cạnh",
             "D. Hình có sáu cạnh"
         ],
-        "_answer": "A",
+        "_answer": 1,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -84,7 +84,7 @@
             "C. 360 độ",
             "D. 270 độ"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "",
         "_difficulty": 2,
         "_description": ""
@@ -99,7 +99,7 @@
             "C. 15 cm",
             "D. 10 cm"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "",
         "_difficulty": 2,
         "_description": ""
@@ -114,7 +114,7 @@
             "C. 1000 xentimét",
             "D. 10000 xentimét"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -129,7 +129,7 @@
             "C. 5000 gam",
             "D. 50000 gam"
         ],
-        "_answer": "C",
+        "_answer": 2,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -144,7 +144,7 @@
             "C. 120 phút",
             "D. 90 phút"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "",
         "_difficulty": 1,
         "_description": ""
@@ -159,7 +159,7 @@
             "C. bơi",
             "D. nhảy"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "Từ đúng để điền vào chỗ trống là 'ngủ'. Con mèo thường ngủ trên cây.",
         "_difficulty": 1,
         "_description": ""
@@ -174,7 +174,7 @@
             "C. giận",
             "D. sợ"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "Từ ngữ thích hợp để hoàn thành câu là 'vui'. Bé Lan rất vui khi được mẹ mua cho bộ đồ chơi mới.",
         "_difficulty": 1,
         "_description": ""
@@ -189,7 +189,7 @@
             "C. lòai chim",
             "D. loài chim"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "Từ viết đúng chính tả là 'loài chim'.",
         "_difficulty": 1,
         "_description": ""
@@ -204,7 +204,7 @@
             "C. bánh",
             "D. gạch"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "Từ 'chân' có chứa âm đầu là 'ch'.",
         "_difficulty": 1,
         "_description": ""
@@ -219,7 +219,7 @@
             "C. có ngày nên vàng",
             "D. có ngày thành vàng"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "Câu tục ngữ đầy đủ là 'Có công mài sắt, có ngày nên kim'.",
         "_difficulty": 1,
         "_description": ""
@@ -234,7 +234,7 @@
             "C. Cô bé quàng khăn đỏ",
             "D. Trạng Quỳnh"
         ],
-        "_answer": "B",
+        "_answer": 1,
         "_explanation": "Nhân vật Tấm trong truyện cổ tích Việt Nam có khả năng biến hóa.",
         "_difficulty": 2,
         "_description": ""
@@ -249,7 +249,7 @@
             "C. Con đường làng",
             "D. Ngôi nhà"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "Trong bài thơ 'Mẹ và quả', tác giả nói về tình mẹ con.",
         "_difficulty": 2,
         "_description": ""
@@ -265,7 +265,7 @@
             "C. Con đường làng",
             "D. Ngôi nhà"
         ],
-        "_answer": "A",
+        "_answer": 0,
         "_explanation": "Trong bài thơ 'Mẹ và quả', tác giả nói về tình mẹ con.",
         "_difficulty": 2,
         "_description": ""
