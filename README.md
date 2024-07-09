@@ -15,7 +15,8 @@
 - > **Tap Music**: https://github.com/mindongun123/MJGameAPK/releases/download/%23MJGame_TapMusic/MJGame.TapMusic.apk 
 - > **Runner3D** : https://github.com/mindongun123/MJGameAPK/releases/download/runner3D/MJRunner.apk 
 - > **Emoji** :  https://github.com/mindongun123/MJGameAPK/releases/download/%23mjgameEmoji/MJ_Emoji_apk1.apk
-- > **Merge Tower**: 
+- > **Merge Tower**:
+- > **Merge Restaurant**: https://github.com/mindongun123/2024GB
   
 ## Cac Game Demo/ Choi thu  
 
