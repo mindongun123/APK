@@ -6,7 +6,10 @@
 
 
 > [!TIP]
-> ## Cac Game da hoan thanh
+> ## Các Game APK
+
+> [!Important]
+> Click vào link bên dưới để download
 
 - > **[Ban Bong](https://github.com/mindongun123/MJGameAPK/releases/download/MJGameApk_BubbleShoot/banbong.apk)** : 
 <!-- - > **Mario** :  https://github.com//mindongun123/MJGameAPK/releases/download/%23Mjgame/Mario_v1.8.apk -->
