@@ -22,5 +22,8 @@
 - > **[Merge Restaurant](https://github.com/mindongun123/2024GB)**: 
 
 > [!Warning]
-> <h2>Ngoài ra:</h2> Connect, TapMusic, Runner3D...
+> <h2>Ngoài ra:</h2>
+> Connect, TapMusic, Runner3D... </br>
+> App học tập (Toán Văn) dành cho học sinh lớp 3. Sử dụng Unity, Fetch Data từ server php...
+
 <!--- > **Connect** : https://github.com/mindongun123/MJGame_APK/releases -->
