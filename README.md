@@ -22,5 +22,5 @@
 - > **[Merge Restaurant](https://github.com/mindongun123/2024GB)**: 
 
 > [!Warning]
-> Ngoài ra: Connect, TapMusic, Runner3D...
+> <h2>Ngoài ra:</h2> Connect, TapMusic, Runner3D...
 <!--- > **Connect** : https://github.com/mindongun123/MJGame_APK/releases -->
